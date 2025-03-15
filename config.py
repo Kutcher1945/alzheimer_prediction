@@ -50,7 +50,7 @@ KEYWORD = "alzheimer"
 TEAM_MEMBERS = [
     {"name": "Adilan Akhramovich", "role": "Developer", "links":["", ""]},
     {"name": "Adilan Akhramovich", "role": "Developer", "links":["", ""]},
-    {"name": "Adilan Akhramovich", "role": "Developer", "links":["", "https://github.com/HarshitJainn"]},
-    {"name": "Adilan Akhramovich", "role": "Developer", "links":["", "https://github.com/siddharth-mohril"]},
+    {"name": "Adilan Akhramovich", "role": "Developer", "links":["", ""]},
+    {"name": "Adilan Akhramovich", "role": "Developer", "links":["", ""]},
     {"name": "Adilan Akhramovich", "role": "Developer", "links":["", ""]},
 ]

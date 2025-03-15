@@ -9,5 +9,5 @@ numpy==1.26.4
 Pillow
 tensorflow==2.19.0
 keras==3.9.0
-opencv-python-headless==4.5.4.60
+opencv-python-headless
 cryptography==38.0.4

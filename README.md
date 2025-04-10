@@ -56,7 +56,7 @@ Ensure you have the following installed:
 ## Usage Guide  
 
 ### Data Input  
-1. Go to the [web application]([https://alzheimers-prediction.streamlit.app](https://alzheimer-prediction-ai.streamlit.app/)) and navigate to the prediction section.  
+1. Go to the [web application](https://alzheimers-prediction-ai.streamlit.app) and navigate to the prediction section.  
 2. Upload the required MRI image or enter clinical data.  
 3. The system will analyze the data and provide a prediction on Alzheimer's likelihood.  
 
@@ -72,7 +72,7 @@ The model is trained on a dataset from [Alzheimer’s Disease Neuroimaging Initi
 
 ## Deployment  
 The Alzheimer's prediction model is deployed on:  
-- **Streamlit**: [Visit Site](https://alzheimers-prediction.streamlit.app)  
+- **Streamlit**: [Visit Site](https://alzheimers-prediction-ai.streamlit.app)  
 - **Hugging Face Spaces**: [Visit Site](https://huggingface.co/spaces/your-space)  
 
 ## Developer  
